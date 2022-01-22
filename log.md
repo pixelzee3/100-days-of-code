@@ -8,13 +8,13 @@
 
 **Link to work:** [QR code page component (block)](https://www.frontendmentor.io/solutions/qr-code-page-component-block-p8k1LY9cM)
 
-<!-- ### Day 1: March 1, 2016 (Example 2)
+### Day 1: January 22, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created my first React app. Learned about dynamic values and used it to create a paragraph that generates a random number using {Math.floor(Math.random() * 10)}.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I can already see why React is very powerful. The ability to combine JavaScript logic with frontend tools unlocks a lot of possibilities (imagine a Tesla UI but in a web browser!).
 
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
+**Link(s) to work**: ![A webpage displaying a random number upon refreshing.](media/react-dynamic-value-demo.gif)
 
 
 <!-- ### Day 2: June 27, 2016 (Example 3)
