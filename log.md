@@ -16,13 +16,10 @@
 
 **Link(s) to work**: ![A webpage displaying a random number upon refreshing.](media/react-dynamic-value-demo.gif)
 
+### Day 2: January 23, 2022
 
-<!-- ### Day 2: June 27, 2016 (Example 3)
+**Today's Progress**: Learned about components, click events, props, and useState hooks. Used my knowledge to create a click counter (demo below).
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts** React is starting to come together for me. My first basic app has shown me first-hand why React is very powerful. Also, I'm starting to think that React is actually rather fun - I thought that it'd be less fun than Svelte but I guess I was wrong.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link(s) to work**: ![A webpage that counts the number of times the user has clicked on a button.](media/react-click-counter.gif)
