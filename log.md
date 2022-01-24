@@ -18,8 +18,16 @@
 
 ### Day 2: January 23, 2022
 
-**Today's Progress**: Learned about components, click events, props, and useState hooks. Used my knowledge to create a click counter (demo below).
+**Today's Progress**: Learned about React components, click events, props, and useState hooks. Used my knowledge to create a click counter (demo below).
 
 **Thoughts** React is starting to come together for me. My first basic app has shown me first-hand why React is very powerful. Also, I'm starting to think that React is actually rather fun - I thought that it'd be less fun than Svelte but I guess I was wrong.
 
 **Link(s) to work**: ![A webpage that counts the number of times the user has clicked on a button.](media/react-click-counter.gif)
+
+### Day 3: January 24, 2022
+
+**Today's Progress**: Learned how to output a list in React.
+
+**Thoughts** It's not as fancy as Svelte but it gets the job done. It also feels more native (Svelte uses some crazy syntax to output lists). React is becoming very fun.
+
+**Work(s)**: ![A code snippet showing how to output a list in React](media/react-outputting-lists.png)
