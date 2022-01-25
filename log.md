@@ -31,3 +31,11 @@
 **Thoughts** It's not as fancy as Svelte but it gets the job done. It also feels more native (Svelte uses some crazy syntax to output lists). React is becoming very fun.
 
 **Work(s)**: ![A code snippet showing how to output a list in React](media/react-outputting-lists.png)
+
+### Day 4: January 25, 2022
+
+**Today's Progress**: Learned how to use functions and props.
+
+**Thoughts** Using props as functions is important because sometimes you want the component to be able to manipulate the data it receives. For that, you would need to create the event handler outside of the component and pass the function as a prop so that it can be access within the component.
+
+**Work(s)**: ![A code snippet showing a use case for using functions as props](media/react-functions-as-props.png)
