@@ -39,3 +39,9 @@
 **Thoughts** Using props as functions is important because sometimes you want the component to be able to manipulate the data it receives. For that, you would need to create the event handler outside of the component and pass the function as a prop so that it can be access within the component.
 
 **Work(s)**: ![A code snippet showing a use case for using functions as props](media/react-functions-as-props.png)
+
+### Day 5: January 31, 2022
+
+**Today's Progress**: Learned about the useEffect hook
+
+**Thoughts** TBH I still don't know the use cases for this hook. After all I haven't worked with the backend before. Also, I had to take a break but not for this long! Will try not to do it again.
