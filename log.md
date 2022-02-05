@@ -45,3 +45,11 @@
 **Today's Progress**: Learned about the useEffect hook
 
 **Thoughts** TBH I still don't know the use cases for this hook. After all I haven't worked with the backend before. Also, I had to take a break but not for this long! Will try not to do it again.
+
+### Day 6: February 4, 2022
+
+**Today's Progress**: Learned about TailwindCSS basics.
+
+**Thoughts** Tailwind is streamlined. There are a pre-defined set of choices for each style so I wouldn't need to tinker around too much. I'm curious to how responsive design will work, however.
+
+**Work(s)**: ![A code snippet showing an HTML header with two divs styled using Tailwind classes.](media/tailwind-basics.png)
