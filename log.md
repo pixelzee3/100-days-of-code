@@ -53,3 +53,12 @@
 **Thoughts** Tailwind is streamlined. There are a pre-defined set of choices for each style so I wouldn't need to tinker around too much. I'm curious to how responsive design will work, however.
 
 **Work(s)**: ![A code snippet showing an HTML header with two divs styled using Tailwind classes.](media/tailwind-basics.png)
+
+### Day 7: February 9, 2022
+
+**Today's Progress**: Read through the TailwindCSS docs.
+
+**Thoughts** I don't think I can use TailwindCSS without reading the docs. There are so many things to remember! Also, it has been a rough few weeks - I haven't been able to code consistently. However, I want to begin prioritizing #100DaysOfCode because learning how to code will unlock me many opportunities. 
+
+**Work(s)**: ![TailwindCSS code to make three donuts.](media/tailwindcss-donut.png)
+![Three donuts made with TailwindCSS.](media/tailwindcss-donut.png)
