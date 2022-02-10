@@ -62,3 +62,11 @@
 
 **Work(s)**: ![TailwindCSS code to make three donuts.](media/tailwindcss-donut.png)
 ![Three donuts made with TailwindCSS.](media/tailwindcss-donut.png)
+
+### Day 8: February 9, 2022
+
+**Today's Progress**: Made an NFT card component using TailwindCSS as a Frontend Mentor challenge.
+
+**Thoughts** I'm far from a Tailwind master, but I can already feel like I can style faster. This just goes to show how rapid TailwindCSS is!
+
+**Work(s)**: ![An NFT card component made using TailwindCSS](media/tailwindcss-nft-card-component.png)
