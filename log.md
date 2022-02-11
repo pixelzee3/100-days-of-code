@@ -70,3 +70,9 @@
 **Thoughts** I'm far from a Tailwind master, but I can already feel like I can style faster. This just goes to show how rapid TailwindCSS is!
 
 **Work(s)**: ![An NFT card component made using TailwindCSS](media/tailwindcss-nft-card-component.png)
+
+### Day 9: February 12, 2022
+
+**Today's Progress**: Worked on a new Discord bot.
+
+**Thoughts** I feel like the technologies I have been learning (Parcel, TypeScript, etc.). They help me manage my project but they are also very difficult to set up.
