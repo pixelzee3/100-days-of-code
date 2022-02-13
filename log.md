@@ -76,3 +76,11 @@
 **Today's Progress**: Worked on a new Discord bot.
 
 **Thoughts** I feel like the technologies I have been learning (Parcel, TypeScript, etc.). They help me manage my project but they are also very difficult to set up.
+
+### Day 10: February 13, 2022
+
+**Today's Progress**: Back to React! I learned how to fetch data using the useEffect hook. I then made a useFetch hook that can also handle fetch errors!
+
+**Thoughts** I now know why useEffect is an important hook! Fetching data from servers is a lot more complicated than I imagined.
+
+**Work(s)**: ![A React hook I made called useFetch.](media/react-useeffect-hook.png)
