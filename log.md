@@ -84,3 +84,11 @@
 **Thoughts** I now know why useEffect is an important hook! Fetching data from servers is a lot more complicated than I imagined.
 
 **Work(s)**: ![A React hook I made called useFetch.](media/react-useeffect-hook.png)
+
+### Day 11: February 14, 2022
+
+**Today's Progress**: I learned how to use the react-router-dom to make websites multi-page.
+
+**Thoughts** I think making multiple pages in React is much more elegant than making multiple HTML pages.
+
+**Work(s)**: ![A React website with multiple routes.](media/recat-router-dom.png)
