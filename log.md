@@ -10,7 +10,7 @@
 
 ### Day 1: January 22, 2022
 
-**Today's Progress**: Created my first React app. Learned about dynamic values and used it to create a paragraph that generates a random number using {Math.floor(Math.random() * 10)}.
+**Today's Progress**: Created my first React app. Learned about dynamic values and used it to create a paragraph that generates a random number using {Math.floor(Math.random() \* 10)}.
 
 **Thoughts**: I can already see why React is very powerful. The ability to combine JavaScript logic with frontend tools unlocks a lot of possibilities (imagine a Tesla UI but in a web browser!).
 
@@ -58,7 +58,7 @@
 
 **Today's Progress**: Read through the TailwindCSS docs.
 
-**Thoughts** I don't think I can use TailwindCSS without reading the docs. There are so many things to remember! Also, it has been a rough few weeks - I haven't been able to code consistently. However, I want to begin prioritizing #100DaysOfCode because learning how to code will unlock me many opportunities. 
+**Thoughts** I don't think I can use TailwindCSS without reading the docs. There are so many things to remember! Also, it has been a rough few weeks - I haven't been able to code consistently. However, I want to begin prioritizing #100DaysOfCode because learning how to code will unlock me many opportunities.
 
 **Work(s)**: ![TailwindCSS code to make three donuts.](media/tailwindcss-donut.png)
 ![Three donuts made with TailwindCSS.](media/tailwindcss-donut.png)
@@ -92,3 +92,9 @@
 **Thoughts** I think making multiple pages in React is much more elegant than making multiple HTML pages.
 
 **Work(s)**: ![A React website with multiple routes.](media/recat-router-dom.png)
+
+### Day 12: February 20, 2022
+
+**Today's Progress**: I learned about React route parameters, controlled inputs/forms, submit events, redirects, and 404 pages.
+
+**Thoughts** I think I'm ready enough to create my own websites using React. I'm very excited.
