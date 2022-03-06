@@ -98,3 +98,11 @@
 **Today's Progress**: I learned about React route parameters, controlled inputs/forms, submit events, redirects, and 404 pages.
 
 **Thoughts** I think I'm ready enough to create my own websites using React. I'm very excited.
+
+### Day 13: March 6, 2022
+
+**Today's Progress**: I worked on a Frontend Mentor component using TailwindCSS. I still need to implement responsive design and implement hover states.
+
+**Thoughts** I want to practice my frontend styling skills.
+
+**Work(s)**: ![An order summary component.](media/tailwindcss-order-summary-component.png)
