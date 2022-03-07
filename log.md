@@ -106,3 +106,11 @@
 **Thoughts** I want to practice my frontend styling skills.
 
 **Work(s)**: ![An order summary component.](media/tailwindcss-order-summary-component.png)
+
+### Day 14: March 7, 2022
+
+**Today's Progress**: I completed the Frontend Mentor component I've been working on! Made with TailwindCSS.
+
+**Thoughts** I think great planning will allow me to practice my front-end skills well.
+
+**Work(s)**: ![An order summary component.](media/tailwindcss-order-summary-component-final.png)
