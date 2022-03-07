@@ -109,7 +109,7 @@
 
 ### Day 14: March 7, 2022
 
-**Today's Progress**: I completed the Frontend Mentor component I've been working on! Made with TailwindCSS.
+**Today's Progress**: I completed the Frontend Mentor component I've been working on. Made with TailwindCSS.
 
 **Thoughts** I think great planning will allow me to practice my front-end skills well.
 
