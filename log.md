@@ -120,5 +120,3 @@
 **Today's Progress**: I began working on my first personal project: a Valorant map picker website!
 
 **Thoughts**: Working without holding someone's hand (like in a tutorial) is a LOT harder. There are so many more roadblocks!
-
-**Work(s)**: ![An order summary component.](media/tailwindcss-order-summary-component-final.png)
