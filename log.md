@@ -120,3 +120,9 @@
 **Today's Progress**: I began working on my first personal project: a Valorant map picker website!
 
 **Thoughts**: Working without holding someone's hand (like in a tutorial) is a LOT harder. There are so many more roadblocks!
+
+ ### Day 15-22: March 21-25, 28-30, 2022
+
+**Today's Progress**: I continued working on my Valorant map picker. However, I got stuck with asset management - I couldn't get background images to show conditionally for some reason.
+
+**Thoughts**: The asset management issue could've been because of Parcel. I might as well learn Webpack at this point.
