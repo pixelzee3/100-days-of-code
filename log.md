@@ -126,3 +126,9 @@
 **Today's Progress**: I continued working on my Valorant map picker. However, I got stuck with asset management - I couldn't get background images to show conditionally for some reason.
 
 **Thoughts**: The asset management issue could've been because of Parcel. I might as well learn Webpack at this point.
+
+ ### Day 23: March 31, 2022
+
+**Today's Progress**: Learned Webpack 5 using Traversy Media's Webpack 5 Crash Course.
+
+**Thoughts**: Back then I was intimidated by the amount of configuration needed for Webpack. However, it doesn't seem too bad now -- probably cause Traversy broke down the concepts well.
