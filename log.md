@@ -132,3 +132,9 @@
 **Today's Progress**: Learned Webpack 5 using Traversy Media's Webpack 5 Crash Course.
 
 **Thoughts**: Back then I was intimidated by the amount of configuration needed for Webpack. However, it doesn't seem too bad now -- probably cause Traversy broke down the concepts well.
+
+ ### Day 24: April 3, 2022
+
+**Today's Progress**: I changed my Valorant map picker project to use create-react-app - I finally fixed the asset management bug!
+
+**Thoughts**: I avoided create-react-app because I didn't want to mess with Webpack - oh how silly I was 😅.
