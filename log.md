@@ -138,3 +138,11 @@
 **Today's Progress**: I changed my Valorant map picker project to use create-react-app - I finally fixed the asset management bug!
 
 **Thoughts**: I avoided create-react-app because I didn't want to mess with Webpack - oh how silly I was 😅.
+
+ ### Day 25: April 4, 2022
+
+**Today's Progress**: I worked on my Valorant map picker project. I worked on a conditional filler cell for my responsive design.
+
+**Thoughts**: It was a little tricky but React + TailwindCSS made implementing this easy.
+
+**Work(s)**: ![An order summary component.](media/valorant-map-banner-filler-component.png)
