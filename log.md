@@ -145,4 +145,12 @@
 
 **Thoughts**: It was a little tricky but React + TailwindCSS made implementing this easy.
 
-**Work(s)**: ![An order summary component.](media/valorant-map-banner-filler-component.png)
+**Work(s)**: ![My Valorant map banner project.](media/valorant-map-banner-filler-component.png)
+
+### Day 26: April 5, 2022
+
+**Today's Progress**: I finished my Valorant map picker project! It's responsive and complete with animations.
+
+**Thoughts**: Honestly my first React web app is still rather basic but you've got to start somewhere so 🤷‍♂️😆.
+
+**Work(s)**: ![My Valorant map banner project.](media/valorant-map-banner.png)
