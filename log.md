@@ -154,3 +154,11 @@
 **Thoughts**: Honestly my first React web app is still rather basic but you've got to start somewhere so 🤷‍♂️😆.
 
 **Work(s)**: ![My Valorant map banner project.](media/valorant-map-banner.png)
+
+### Day 27: April 12, 2022
+
+**Today's Progress**: Began working on an interactive component for a Frontend Mentor challenge. Finished project setup + rough layout so far.
+
+**Thoughts**: I have the sudden urge to grind Frontend Mentor. It should be great for practicing my front-end skills.
+
+**Work(s)**: ![A rough layout of my interactive component](media/rate-component-rough-layout.png)
