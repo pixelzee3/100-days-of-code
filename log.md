@@ -121,25 +121,25 @@
 
 **Thoughts**: Working without holding someone's hand (like in a tutorial) is a LOT harder. There are so many more roadblocks!
 
- ### Day 16-22: March 21-25, 28-30, 2022
+### Day 16-22: March 21-25, 28-30, 2022
 
 **Today's Progress**: I continued working on my Valorant map picker. However, I got stuck with asset management - I couldn't get background images to show conditionally for some reason.
 
 **Thoughts**: The asset management issue could've been because of Parcel. I might as well learn Webpack at this point.
 
- ### Day 23: March 31, 2022
+### Day 23: March 31, 2022
 
 **Today's Progress**: Learned Webpack 5 using Traversy Media's Webpack 5 Crash Course.
 
 **Thoughts**: Back then I was intimidated by the amount of configuration needed for Webpack. However, it doesn't seem too bad now -- probably cause Traversy broke down the concepts well.
 
- ### Day 24: April 3, 2022
+### Day 24: April 3, 2022
 
 **Today's Progress**: I changed my Valorant map picker project to use create-react-app - I finally fixed the asset management bug!
 
 **Thoughts**: I avoided create-react-app because I didn't want to mess with Webpack - oh how silly I was 😅.
 
- ### Day 25: April 4, 2022
+### Day 25: April 4, 2022
 
 **Today's Progress**: I worked on my Valorant map picker project. I worked on a conditional filler cell for my responsive design.
 
@@ -168,3 +168,11 @@
 **Today's Progress**: Learned VueJS fundamentals and began creating a task tracker app to apply the things I learned.
 
 **Thoughts**: I hate jumping around and learning different things all the time - but VueJS seems genuinely fun, fast, and reliable.
+
+### Day 29: April 25, 2022
+
+**Today's Progress**: Completed the task tracker app that I was working on using VueJS.
+
+**Thoughts**: I think Vue does a lot of things better than React - but I'm still unsure about how scalable it is in comparison. I will continue using it though!
+
+**Work(s)**: https://pixelzee-vue-task-tracker.netlify.app/
