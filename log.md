@@ -162,3 +162,9 @@
 **Thoughts**: I have the sudden urge to grind Frontend Mentor. It should be great for practicing my front-end skills.
 
 **Work(s)**: ![A rough layout of my interactive component](media/rate-component-rough-layout.png)
+
+### Day 28: April 24, 2022
+
+**Today's Progress**: Learned VueJS fundamentals and began creating a task tracker app to apply the things I learned.
+
+**Thoughts**: I hate jumping around and learning different things all the time - but VueJS seems genuinely fun, fast, and reliable.
