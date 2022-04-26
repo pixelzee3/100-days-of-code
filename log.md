@@ -176,3 +176,11 @@
 **Thoughts**: I think Vue does a lot of things better than React - but I'm still unsure about how scalable it is in comparison. I will continue using it though!
 
 **Work(s)**: https://pixelzee-vue-task-tracker.netlify.app/
+
+### Day 30: April 26, 2022
+
+**Today's Progress**: Began working on a personal project of mine: a Tesla Model 3/Y UI simulator! I worked on the UI layout.
+
+**Thoughts**: I think projects like these will truly test my skills. There will be - and there has already been - roadblocks throughout the project. However, I think the tools I have with me will help me overcome them.
+
+**Work(s)**: https://github.com/pixelzee3/tesla-model-3y-ui
