@@ -184,3 +184,11 @@
 **Thoughts**: I think projects like these will truly test my skills. There will be - and there has already been - roadblocks throughout the project. However, I think the tools I have with me will help me overcome them.
 
 **Work(s)**: https://github.com/pixelzee3/tesla-model-3y-ui
+
+### Day 31: April 28, 2022
+
+**Today's Progress**: Completed the design for the base state of a Frontend Mentor component.
+
+**Thoughts**: Frankly, this type of work is getting a little boring. I think I'm going to go a little wild while I have time.
+
+**Work(s)**: ![A rating component](media/rate-component-base-state-finished.png)
