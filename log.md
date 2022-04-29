@@ -192,3 +192,12 @@
 **Thoughts**: Frankly, this type of work is getting a little boring. I think I'm going to go a little wild while I have time.
 
 **Work(s)**: ![A rating component](media/rate-component-base-state-finished.png)
+
+### Day 32: April 29, 2022
+
+**Today's Progress**: Finished making an Interactive Rating Component for a Frontend Mentor challenge.
+
+**Thoughts**: I had to solve some cryptic bugs to implement the interactive functions but it was generally fun (adverse to what I said yesterday, apparently 😂).
+
+**Work(s)**:
+[Repo link](https://github.com/pixelzee3/interactive-rating-component-main), [preview link](https://pixelzee-interactive-rating-component-main.netlify.app/)
