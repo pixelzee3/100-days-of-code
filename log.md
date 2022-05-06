@@ -201,3 +201,9 @@
 
 **Work(s)**:
 [Repo link](https://github.com/pixelzee3/interactive-rating-component-main), [preview link](https://pixelzee-interactive-rating-component-main.netlify.app/)
+
+### Day 33: May 6, 2022
+
+**Today's Progress**: Tried to work on an old Discord bot I was working on. 
+
+**Thoughts**: The breaking changes in my module bundlers really threw me off - the development experience wasn't nice 😔.
