@@ -207,3 +207,9 @@
 **Today's Progress**: Tried to work on an old Discord bot I was working on. 
 
 **Thoughts**: The breaking changes in my module bundlers really threw me off - the development experience wasn't nice 😔.
+
+### Day 34: May 7, 2022
+
+**Today's Progress**: Worked on my Discord bot. 
+
+**Thoughts**: The development experience doesn't feel straightforward. I feel like I'm falling for the premature optimization trap 😱.
