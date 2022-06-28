@@ -213,3 +213,9 @@
 **Today's Progress**: Worked on my Discord bot. 
 
 **Thoughts**: The development experience doesn't feel straightforward. I feel like I'm falling for the premature optimization trap 😱.
+
+### Day 35: June 28, 2022
+
+**Today's Progress**: Returned from my logging hiatus. Begun working on a Frontend Mentor challenge using Next.JS. 
+
+**Thoughts**: It's been a rough few months. Logging has become very difficult, but I didn't stop coding - that's what matters.
