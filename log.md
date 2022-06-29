@@ -219,3 +219,12 @@
 **Today's Progress**: Returned from my logging hiatus. Begun working on a Frontend Mentor challenge using Next.JS. 
 
 **Thoughts**: It's been a rough few months. Logging has become very difficult, but I didn't stop coding - that's what matters.
+
+### Day 36: June 29, 2022
+
+**Today's Progress**: Created a card component for quotes as a Frontend Mentor challenge. 
+
+**Thoughts**: TailwindCSS made positioning the neon button a breeze!
+
+**Work(s)**:
+![A card component with advice.](media/advice-generator-card.png)
