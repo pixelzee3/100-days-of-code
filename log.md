@@ -228,3 +228,12 @@
 
 **Work(s)**:
 ![A card component with advice.](media/advice-generator-card.png)
+
+### Day 37: July 1, 2022
+
+**Today's Progress**: Tried fetching data from an API to generate random advice for my advice app. 
+
+**Thoughts**: Fetching data in React is harder than I thought. I'm going to need to review the concepts!
+
+**Work(s)**:
+![A card component with advice from an API.](media/advice-generator-app-custom-quotes.png)
