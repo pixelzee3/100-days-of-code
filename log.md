@@ -237,3 +237,13 @@
 
 **Work(s)**:
 ![A card component with advice from an API.](media/advice-generator-app-custom-quotes.png)
+
+### Day 38: July 2, 2022
+
+**Today's Progress**: Completed the advice generator app. 
+
+**Thoughts**: I figured out how to properly fetch data from the API (using a different framework 😅). I learned so much about data fetching and I have so much more to learn!
+
+**Work(s)**:
+![A card component with advice from an API.](media/advice-generator-app-final.png)
+![The source code for the project](media/advice-generator-app-source.png)
