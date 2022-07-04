@@ -247,3 +247,9 @@
 **Work(s)**:
 ![A card component with advice from an API.](media/advice-generator-app-final.png)
 ![The source code for the project](media/advice-generator-app-source.png)
+
+### Day 39: July 4, 2022
+
+**Today's Progress**: Experimented with sidebar menus using Tailwind CSS.
+
+**Thoughts**: Sidebar menus are not as hard as I thought they would be.
