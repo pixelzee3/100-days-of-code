@@ -253,3 +253,9 @@
 **Today's Progress**: Experimented with sidebar menus using Tailwind CSS.
 
 **Thoughts**: Sidebar menus are not as hard as I thought they would be.
+
+### Day 40: July 9, 2022
+
+**Today's Progress**: Worked on a website for a school club.
+
+**Thoughts**: This is one of my few genuinely useful projects! Excited to work on it!
