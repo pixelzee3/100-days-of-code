@@ -265,3 +265,7 @@
 **Today's Progress**: Worked on a Frontend Mentor landing page.
 
 **Thoughts**: Responsive design was a little harder on this one!
+
+**Work(s)**:
+
+![A landing page for a remote working website.](media/intro-section-with-dropdown-navigation-progress.png)
