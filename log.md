@@ -204,25 +204,25 @@
 
 ### Day 33: May 6, 2022
 
-**Today's Progress**: Tried to work on an old Discord bot I was working on. 
+**Today's Progress**: Tried to work on an old Discord bot I was working on.
 
 **Thoughts**: The breaking changes in my module bundlers really threw me off - the development experience wasn't nice 😔.
 
 ### Day 34: May 7, 2022
 
-**Today's Progress**: Worked on my Discord bot. 
+**Today's Progress**: Worked on my Discord bot.
 
 **Thoughts**: The development experience doesn't feel straightforward. I feel like I'm falling for the premature optimization trap 😱.
 
 ### Day 35: June 28, 2022
 
-**Today's Progress**: Returned from my logging hiatus. Begun working on a Frontend Mentor challenge using Next.JS. 
+**Today's Progress**: Returned from my logging hiatus. Begun working on a Frontend Mentor challenge using Next.JS.
 
 **Thoughts**: It's been a rough few months. Logging has become very difficult, but I didn't stop coding - that's what matters.
 
 ### Day 36: June 29, 2022
 
-**Today's Progress**: Created a card component for quotes as a Frontend Mentor challenge. 
+**Today's Progress**: Created a card component for quotes as a Frontend Mentor challenge.
 
 **Thoughts**: TailwindCSS made positioning the neon button a breeze!
 
@@ -231,7 +231,7 @@
 
 ### Day 37: July 1, 2022
 
-**Today's Progress**: Tried fetching data from an API to generate random advice for my advice app. 
+**Today's Progress**: Tried fetching data from an API to generate random advice for my advice app.
 
 **Thoughts**: Fetching data in React is harder than I thought. I'm going to need to review the concepts!
 
@@ -240,7 +240,7 @@
 
 ### Day 38: July 2, 2022
 
-**Today's Progress**: Completed the advice generator app. 
+**Today's Progress**: Completed the advice generator app.
 
 **Thoughts**: I figured out how to properly fetch data from the API (using a different framework 😅). I learned so much about data fetching and I have so much more to learn!
 
@@ -259,3 +259,9 @@
 **Today's Progress**: Worked on a website for a school club.
 
 **Thoughts**: This is one of my few genuinely useful projects! Excited to work on it!
+
+### Day 41: July 12, 2022
+
+**Today's Progress**: Worked on a Frontend Mentor landing page.
+
+**Thoughts**: Responsive design was a little harder on this one!
