@@ -269,3 +269,9 @@
 **Work(s)**:
 
 ![A landing page for a remote working website.](media/intro-section-with-dropdown-navigation-progress.png)
+
+### Day 42: July 23, 2022
+
+**Today's Progress**: Learned Svelte and SvelteKit.
+
+**Thoughts**: Starting to really love the framework. I initially learned it cause I wanted speed, but the development experience in Svelte is just so much better.
