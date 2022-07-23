@@ -275,3 +275,10 @@
 **Today's Progress**: Learned Svelte and SvelteKit.
 
 **Thoughts**: Starting to really love the framework. I initially learned it cause I wanted speed, but the development experience in Svelte is just so much better.
+
+### Day 43: July 24, 2022
+
+**Today's Progress**: Continued working on a Frontend Mentor landing page.
+
+**Thoughts**: I worked for so long that my brain started fogging. Honestly, I'm starting to realize the importance of thinking before writing code -- I was rushing my thought process which often made my code bad.
+
